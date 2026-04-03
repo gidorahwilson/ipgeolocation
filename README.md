@@ -20,8 +20,8 @@ pkg install ruby       (Termux)
 
 Install
 Clone repository:
-git clone https://github.com/username/IP-Geolocation-Ruby.git
-cd IP-Geolocation-Ruby
+git clone https://github.com/gidorahwilson/ipgeolocation.git
+cd ipgeolocation
 
 Bikin script executable:
 chmod +x ip.rb
