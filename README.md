@@ -38,4 +38,4 @@ Gunakan IP publik, bukan lokal (192.168.x.x atau 10.x.x.x)
 Tool ini menggunakan API gratis, rate limit mungkin berlaku
 
 ## Screenshot Tools
-![ss](https://github.com/gidorahwilson/ipgeolocation/blob/main/ss.png)
+![ipgeolocation](https://github.com/gidorahwilson/ipgeolocation/blob/main/ss.png)
