@@ -37,6 +37,5 @@ Catatan
 Gunakan IP publik, bukan lokal (192.168.x.x atau 10.x.x.x)
 Tool ini menggunakan API gratis, rate limit mungkin berlaku
 
-# Screenshot Tools
-
+# Screenshot
 ![ipgeolocation](ss.png)
